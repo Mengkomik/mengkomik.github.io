@@ -19,7 +19,7 @@ const getListManga = () => {
                 <div  class="card-komik1">
                     <img src="${item.img}" class="img1">
                     <div class="judul-komik1">
-                        <p><a href="#e">${item.nama}</a> </p>
+                        <p><a href="/notfound.html">${item.nama}</a> </p>
                     </div>
                     <p class="p">chapter</p>
                     <div class="ch1">
